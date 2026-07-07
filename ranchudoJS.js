@@ -173,7 +173,7 @@ function gerarMensagem() {
   }
 
   let msg = "*Alteração de rancho "+`${cfo}º "${pelotao}" ${CIA}°CIA ES.*\n\n`;
-  msg +="Al Of PM "+`${nome}\n\n`;
+  msg +="CAD PM "+`${nome}\n\n`;
 
   // ADICIONAR
   if (Object.keys(adicionarPorDia).length > 0) {
